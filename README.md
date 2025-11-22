@@ -1,4 +1,4 @@
-# AiMax25
+# AiMAx25
 Autonomous Intelligent Monitoring &amp; Anti-Fraud executor (2025 Edition)
 
 The rapid rise of digital payments, mobile banking, and e-wallets has dramatically increased convenience, but it has also created new vulnerabilities for everyday users. Fraudsters now exploit weaknesses in transaction monitoring systems, performing unauthorized transfers, SIM swaps, account takeovers, and rapid high-value withdrawals before users even realize something is wrong.
